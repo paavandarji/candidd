@@ -1,1 +1,1 @@
-# candidi
+# candid
